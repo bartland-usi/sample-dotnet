@@ -1,3 +1,8 @@
+THIS REPOSITORY HAS BEEN MOVED
+
+Please visit https://github.com/ato-pub/usi.cl.dotnet
+
+
 
 USISampleCode
 
